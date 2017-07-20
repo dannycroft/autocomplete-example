@@ -1,0 +1,16 @@
+.autocomplete {
+  margin: 5vh auto;
+  width: 30vw;
+  min-width: 15em;
+  text-align: center;
+  color: #fff;
+}
+
+.autocomplete__input {
+  padding: .5em;
+  margin: 1em 0;
+  width: 100%;
+  border-radius: .2em;
+  border: 2x solid #97dbe6;
+  box-shadow: 0px 0px 200px 7px rgba(179, 193, 195, 0.99);
+}

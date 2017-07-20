@@ -1,0 +1,359 @@
+[
+  {
+    "name": "COMPASS 2",
+    "norad_id": "42777",
+    "int_code": "2017-036N",
+    "launch_date": "June 23, 2017",
+    "period_minutes": "94.7"
+  },
+  {
+    "name": "SOMP-2",
+    "norad_id": "42701",
+    "int_code": "1998-067LJ",
+    "launch_date": "November 20, 1998",
+    "period_minutes": "92.5"
+  },
+  {
+    "name": "BEESAT 4",
+    "norad_id": "41619",
+    "int_code": "2016-040W",
+    "launch_date": "June 22, 2016",
+    "period_minutes": "94.7"
+  },
+  {
+    "name": "BIROS",
+    "norad_id": "41604",
+    "int_code": "2016-040F",
+    "launch_date": "June 22, 2016",
+    "period_minutes": "94.7"
+  },
+  {
+    "name": "AISAT",
+    "norad_id": "40054",
+    "int_code": "2014-034B",
+    "launch_date": "June 30, 2014",
+    "period_minutes": "97.5"
+  },
+  {
+    "name": "UWE-3",
+    "norad_id": "39446",
+    "int_code": "2013-066AG",
+    "launch_date": "November 21, 2013",
+    "period_minutes": "97.4"
+  },
+  {
+    "name": "BEESAT 2",
+    "norad_id": "39136",
+    "int_code": "2013-015G",
+    "launch_date": "April 19, 2013",
+    "period_minutes": "95"
+  },
+  {
+    "name": "BEESAT 3",
+    "norad_id": "39135",
+    "int_code": "2013-015F",
+    "launch_date": "April 19, 2013",
+    "period_minutes": "95"
+  },
+  {
+    "name": "SOMP",
+    "norad_id": "39134",
+    "int_code": "2013-015E",
+    "launch_date": "April 19, 2013",
+    "period_minutes": "94.9"
+  },
+  {
+    "name": "TET-1",
+    "norad_id": "38710",
+    "int_code": "2012-039D",
+    "launch_date": "July 22, 2012",
+    "period_minutes": "93.2"
+  },
+  {
+    "name": "TANDEM X",
+    "norad_id": "36605",
+    "int_code": "2010-030A",
+    "launch_date": "June 21, 2010",
+    "period_minutes": "94.8"
+  },
+  {
+    "name": "COMSATBW-2",
+    "norad_id": "36582",
+    "int_code": "2010-021B",
+    "launch_date": "May 21, 2010",
+    "period_minutes": "1436.1"
+  },
+  {
+    "name": "COMSATBW-1",
+    "norad_id": "35943",
+    "int_code": "2009-054B",
+    "launch_date": "September 30, 2009",
+    "period_minutes": "1436.1"
+  },
+  {
+    "name": "RUBIN 9.1/RUBIN 9.2/PSLV",
+    "norad_id": "35936",
+    "int_code": "2009-051F",
+    "launch_date": "September 23, 2009",
+    "period_minutes": "99.9"
+  },
+  {
+    "name": "UWE-2",
+    "norad_id": "35934",
+    "int_code": "2009-051D",
+    "launch_date": "September 23, 2009",
+    "period_minutes": "98.9"
+  },
+  {
+    "name": "BEESAT",
+    "norad_id": "35933",
+    "int_code": "2009-051C",
+    "launch_date": "September 23, 2009",
+    "period_minutes": "98.9"
+  },
+  {
+    "name": "RAPIDEYE 4",
+    "norad_id": "33316",
+    "int_code": "2008-040E",
+    "launch_date": "August 29, 2008",
+    "period_minutes": "97.3"
+  },
+  {
+    "name": "RAPIDEYE 3",
+    "norad_id": "33315",
+    "int_code": "2008-040D",
+    "launch_date": "August 29, 2008",
+    "period_minutes": "97.3"
+  },
+  {
+    "name": "RAPIDEYE 1",
+    "norad_id": "33314",
+    "int_code": "2008-040C",
+    "launch_date": "August 29, 2008",
+    "period_minutes": "97.3"
+  },
+  {
+    "name": "RAPIDEYE 5",
+    "norad_id": "33313",
+    "int_code": "2008-040B",
+    "launch_date": "August 29, 2008",
+    "period_minutes": "97.3"
+  },
+  {
+    "name": "RAPIDEYE 2",
+    "norad_id": "33312",
+    "int_code": "2008-040A",
+    "launch_date": "August 29, 2008",
+    "period_minutes": "97.3"
+  },
+  {
+    "name": "SAR LUPE 5",
+    "norad_id": "33244",
+    "int_code": "2008-036A",
+    "launch_date": "July 22, 2008",
+    "period_minutes": "94.3"
+  },
+  {
+    "name": "RUBIN 8/PSLV",
+    "norad_id": "32792",
+    "int_code": "2008-021K",
+    "launch_date": "April 28, 2008",
+    "period_minutes": "97.3"
+  },
+  {
+    "name": "COMPASS 1",
+    "norad_id": "32787",
+    "int_code": "2008-021E",
+    "launch_date": "April 28, 2008",
+    "period_minutes": "96.5"
+  },
+  {
+    "name": "SAR LUPE 4",
+    "norad_id": "32750",
+    "int_code": "2008-014A",
+    "launch_date": "March 27, 2008",
+    "period_minutes": "94.3"
+  },
+  {
+    "name": "SAR LUPE 3",
+    "norad_id": "32283",
+    "int_code": "2007-053A",
+    "launch_date": "November 1, 2007",
+    "period_minutes": "94.3"
+  },
+  {
+    "name": "SAR LUPE 2",
+    "norad_id": "31797",
+    "int_code": "2007-030A",
+    "launch_date": "July 2, 2007",
+    "period_minutes": "94.3"
+  },
+  {
+    "name": "TERRA SAR X",
+    "norad_id": "31698",
+    "int_code": "2007-026A",
+    "launch_date": "June 15, 2007",
+    "period_minutes": "94.8"
+  },
+  {
+    "name": "SAR LUPE 1",
+    "norad_id": "29658",
+    "int_code": "2006-060A",
+    "launch_date": "December 19, 2006",
+    "period_minutes": "94.3"
+  },
+  {
+    "name": "MOZ.5/SAFIR/RUBIN 5/SL-8",
+    "norad_id": "28898",
+    "int_code": "2005-043G",
+    "launch_date": "October 27, 2005",
+    "period_minutes": "98.6"
+  },
+  {
+    "name": "UWE-1",
+    "norad_id": "28892",
+    "int_code": "2005-043C",
+    "launch_date": "October 27, 2005",
+    "period_minutes": "98.4"
+  },
+  {
+    "name": "RUBIN 4/SL-8",
+    "norad_id": "27940",
+    "int_code": "2003-042B",
+    "launch_date": "September 27, 2003",
+    "period_minutes": "98.3"
+  },
+  {
+    "name": "RUBIN 2",
+    "norad_id": "27605",
+    "int_code": "2002-058A",
+    "launch_date": "December 20, 2002",
+    "period_minutes": "97.6"
+  },
+  {
+    "name": "RUBIN 3/SL-8",
+    "norad_id": "27561",
+    "int_code": "2002-054C",
+    "launch_date": "November 28, 2002",
+    "period_minutes": "98.9"
+  },
+  {
+    "name": "MAROC TUBSAT",
+    "norad_id": "27004",
+    "int_code": "2001-056D",
+    "launch_date": "December 10, 2001",
+    "period_minutes": "105.1"
+  },
+  {
+    "name": "BIRD 2",
+    "norad_id": "26959",
+    "int_code": "2001-049C",
+    "launch_date": "October 22, 2001",
+    "period_minutes": "93.8"
+  },
+  {
+    "name": "AMSAT OSCAR 40",
+    "norad_id": "26609",
+    "int_code": "2000-072B",
+    "launch_date": "November 16, 2000",
+    "period_minutes": "1146.6"
+  },
+  {
+    "name": "TUBSAT",
+    "norad_id": "25757",
+    "int_code": "1999-029B",
+    "launch_date": "May 26, 1999",
+    "period_minutes": "99.2"
+  },
+  {
+    "name": "ABRIXAS",
+    "norad_id": "25721",
+    "int_code": "1999-022A",
+    "launch_date": "April 28, 1999",
+    "period_minutes": "90.7"
+  },
+  {
+    "name": "SAFIR 2",
+    "norad_id": "25399",
+    "int_code": "1998-043F",
+    "launch_date": "July 10, 1998",
+    "period_minutes": "101.1"
+  },
+  {
+    "name": "EQUATOR S",
+    "norad_id": "25068",
+    "int_code": "1997-075B",
+    "launch_date": "December 2, 1997",
+    "period_minutes": "1336.6"
+  },
+  {
+    "name": "TUBSAT B",
+    "norad_id": "22970",
+    "int_code": "1994-003B",
+    "launch_date": "January 25, 1994",
+    "period_minutes": "109.3"
+  },
+  {
+    "name": "TUBSAT A",
+    "norad_id": "21577",
+    "int_code": "1991-050D",
+    "launch_date": "July 17, 1991",
+    "period_minutes": "100"
+  },
+  {
+    "name": "DFS 2",
+    "norad_id": "20706",
+    "int_code": "1990-063B",
+    "launch_date": "July 24, 1990",
+    "period_minutes": "1446.6"
+  },
+  {
+    "name": "TVSAT 2",
+    "norad_id": "20168",
+    "int_code": "1989-062A",
+    "launch_date": "August 8, 1989",
+    "period_minutes": "1442.1"
+  },
+  {
+    "name": "DFS 1",
+    "norad_id": "20041",
+    "int_code": "1989-041B",
+    "launch_date": "June 5, 1989",
+    "period_minutes": "1430.6"
+  },
+  {
+    "name": "TVSAT 1",
+    "norad_id": "18570",
+    "int_code": "1987-095A",
+    "launch_date": "November 21, 1987",
+    "period_minutes": "1455.7"
+  },
+  {
+    "name": "OSCAR 10",
+    "norad_id": "14129",
+    "int_code": "1983-058B",
+    "launch_date": "June 16, 1983",
+    "period_minutes": "699.5"
+  },
+  {
+    "name": "HELIOS 2",
+    "norad_id": "8582",
+    "int_code": "1976-003A",
+    "launch_date": "January 15, 1976",
+    "period_minutes": "-"
+  },
+  {
+    "name": "HELIOS 1",
+    "norad_id": "7567",
+    "int_code": "1974-097A",
+    "launch_date": "December 10, 1974",
+    "period_minutes": "-"
+  },
+  {
+    "name": "AZUR (GRS A)",
+    "norad_id": "4221",
+    "int_code": "1969-097A",
+    "launch_date": "November 8, 1969",
+    "period_minutes": "101.2"
+  }
+]
