@@ -1,4 +1,4 @@
-# Autocompelete Hackathon Entry
+# Autocomplete Hackathon Entry
 
 ![example search](example.gif)
 
